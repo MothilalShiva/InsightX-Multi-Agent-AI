@@ -13,7 +13,7 @@
 
 ## 🛠️ Getting Started  
 
-### 🔹 1. Clone the Repository  
+### Clone the Repository  
 ```sh
 git clone https://github.com/MothilalShiva/InsightX-Multi-Agent-AI.git
 cd InsightX-Multi-Agent-AI
@@ -32,7 +32,7 @@ export GOOGLE_API_KEY=your_api_key_here  # Linux/macOS
 set GOOGLE_API_KEY=your_api_key_here     # Windows
 ```
 ---
-#Run the Application
+# Run the Application
 ```sh
 streamlit run multimodal_agent.py
 ```
