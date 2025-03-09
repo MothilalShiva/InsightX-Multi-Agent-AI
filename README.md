@@ -36,6 +36,7 @@ set GOOGLE_API_KEY=your_api_key_here     # Windows
 ```sh
 streamlit run multimodal_agent.py
 ```
+---
 # 📌 How It Works
 🎬 Upload a Video – Drop your MP4/MOV/AVI file into the app </br>
 ❓ Ask Questions – Query about objects, people, or events in the video </br>
