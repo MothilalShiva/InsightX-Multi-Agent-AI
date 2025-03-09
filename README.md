@@ -31,16 +31,17 @@ Set it as an environment variable:
 export GOOGLE_API_KEY=your_api_key_here  # Linux/macOS
 set GOOGLE_API_KEY=your_api_key_here     # Windows
 ```
+---
 #Run the Application
 ```sh
 streamlit run multimodal_agent.py
 ```
 # 📌 How It Works
-🎬 Upload a Video – Drop your MP4/MOV/AVI file into the app
-❓ Ask Questions – Query about objects, people, or events in the video
-🤖 AI-Powered Insights – Get responses based on video content and web search
+🎬 Upload a Video – Drop your MP4/MOV/AVI file into the app </br>
+❓ Ask Questions – Query about objects, people, or events in the video </br>
+🤖 AI-Powered Insights – Get responses based on video content and web search </br>
 ---
 # 🚀 Why Use InsightX?
-🧩 Enhanced AI Reasoning – Uses Gemini 2.0 for deeper video comprehension
-🌐 Seamless Web Search – Expands understanding beyond just video analysis
-🎨 User-Friendly UI – Simple yet powerful Streamlit interface
+🧩 Enhanced AI Reasoning – Uses Gemini 2.0 for deeper video comprehension </br>
+🌐 Seamless Web Search – Expands understanding beyond just video analysis </br>
+🎨 User-Friendly UI – Simple yet powerful Streamlit interface </br>
